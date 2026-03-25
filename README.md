@@ -1,5 +1,5 @@
 
-# Health Informatics | Data Analytics
+### Health Informatics | Data Analytics
 
 <img src="Subject.png" height="400" alt="Tara Seabolt">
 
