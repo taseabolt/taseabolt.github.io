@@ -1,8 +1,12 @@
 
-### Health Informatics | Data Analytics
-
+### Health Informatics | Data Analytics  
+</br>
+</br>
+  
 <img src="Subject.png" height="400" alt="Tara Seabolt">
+</br>
 
 With over 15 years dedicated to working at the intersection of healthcare and data, I bring a multidisciplinary perspective along with extensive experience in data analytics, health informatics, revenue cycle management, clinical research, and project leadership. I have built a foundation of expertise in programming, advanced analytics, and cloud computing to drive data insights and help improve healthcare delivery systems. My academic background includes both a B.A. in Forensic Psychology and an M.A.S. in Health Informatics from Arizona State University and I am currently expanding my technical expertise by pursing an M.S. in Data Science & Analytics at Old Dominion University. 
-
+</br>
+</br>
 [Email me](mailto:taseabolt@gmail.com) | [Download my resume](My%20Resume.pdf) | [Check out my Github](https://github.com/taseabolt)
