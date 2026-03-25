@@ -9,4 +9,4 @@ With over 15 years dedicated to working at the intersection of healthcare and da
 
 ## LinkedIn
 
-## GitHub Repository
+## GitHub
